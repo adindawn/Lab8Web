@@ -11,6 +11,10 @@ Kelas : TI.24.A.4
 
  Praktikum ini adalah Program sederhana menggunakan PHP dan MySQL untuk mengelola data barang, pengguna bisa menambah, melihat, mengubah dan menghapus data barang, termasuk upload gambar barang. 
 
+# STRUKTUR FOLDER 
+
+  lab8_php_database/ │── index.php │── tambah.php │── ubah.php │── hapus.php │── koneksi.php │── style.css └── gambar/
+  
 # LANGKAH-LANGKAH PRAKTIKUM 
 
 # MEMBUAT DATABASE: STUDI KASUS DATA BARANG 
