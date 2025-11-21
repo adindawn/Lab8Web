@@ -13,7 +13,7 @@ Kelas : TI.24.A.4
 
 # STRUKTUR FOLDER 
 
-  lab8_php_database/ │── index.php │── tambah.php │── ubah.php │── hapus.php │── koneksi.php │── style.css └── gambar/
+  lab8_php_database/ │── index.php │── tambah.php │── ubah.php │── hapus.php │── koneksi.php └── gambar/
   
 # LANGKAH-LANGKAH PRAKTIKUM 
 
